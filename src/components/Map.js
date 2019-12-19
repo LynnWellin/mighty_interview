@@ -10,8 +10,6 @@ const useStyles = makeStyles({
         position: 'relative',
         display: 'flex',
         flexDirection: 'column',
-        // justifyContent: 'flex-end',
-        // alignItems: 'center',
         overflow: 'hidden',
     },
     address: {

@@ -1,7 +1,7 @@
 export const theme = {
     classes: {
         infoPanel: {
-            height: '50vh',
+            minHeight: '50vh',
             flex: 1,
             margin: '20px',
             background: '#f7f7f7',
